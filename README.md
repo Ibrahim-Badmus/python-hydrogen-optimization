@@ -23,3 +23,11 @@ hydrogen and ammonia systems, developed using industry-standard tools.
 ## Purpose
 This work is part of a professional development program focused on mastering
 hydrogen and ammonia process systems and translating theory into real-world value.
+
+
+/notebooks
+/scripts
+/data
+/results
+/figures
+README.md
